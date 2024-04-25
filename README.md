@@ -1,6 +1,6 @@
 # Vrinda Store Sales Analysis using MS Excel
 
-![Excel-Report](https://github.com/himanshu-banodha/Vrinda-store-sales-analysis-using-excel/blob/main/Vrinda%20store%20sales%20report.png)
+![Excel-Report]()
 
 ## Objective / Problem statement:
 Vrinda store wants to create an annual sales report for the year 2022. So that, its management can understand their customer's behaviour & increase sales in 2023.
